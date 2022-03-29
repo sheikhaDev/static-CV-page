@@ -1,0 +1,44 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    word-spacing: 0.1em;
+    
+}
+
+h3{
+    text-align: center;
+    color: #000;
+    text-shadow: 0 0 2px #272c27;
+    
+}
+
+.date{
+    text-align: right;
+}
+#section1{
+ padding: 2%;
+ background-color: #DFD3C3;
+}
+#section2{
+   padding: 2%;
+   background-color: #F0ECE3;
+}
+
+#progres1{
+   background-color: #C7B198;
+   
+}
+b{
+    text-shadow: 0 0 4px #C7B198;
+}
+
+#skills{
+    padding-right: 20%;
+}
+#lang{
+    padding-right: 20%;
+}
+
+
